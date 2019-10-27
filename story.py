@@ -1,6 +1,5 @@
 from termcolor import colored
 
-
 def tell():
     story = """
     Hey Boss, 

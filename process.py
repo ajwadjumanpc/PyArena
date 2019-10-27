@@ -31,7 +31,7 @@ def game_init():
         print(f' Player {player.name} {player.status} in id {player.id}')
 
 
-def enter_field(playerid,value):
+def enter_field(playerid, value):
     if value == 1:
         players[playerid].position = 1
         players[playerid].status = 'started game'
@@ -76,36 +76,32 @@ def play(playerid):
     else:
         enter_field(playerid, value)
 
-try:
-    def commander():
-        command = ""
-        pyarena = cmp.Game('not started',players)
-        while command != 'quit':
-            command = input(">>>").lower()
-            if command == 'help':
-                helper()
-            elif command == 'start' and pyarena.status != 'started':
-                pyarena.status = 'started'
-                pyarena.init_game()
-            elif command == 'start' and pyarena.status == 'started':
-                print(colored("PyArena is already started!", 'red'))
-                continue
-            elif command == 'play':
-                pyarena.play_game()
-            elif command == 'alice':
-                story.tell()
-            elif command == 'quit':
-                print(colored("Bye Boss, I will be missing you. Back you soon...", 'green'))
-                exit()
-            elif command == 'reset':
-                cprint("Game settings reset!", 'cyan')
-                game_reset()
-            else:
-                print(colored("Sorry Boss, Alice can't understand!", 'yellow'))
-except ValueError:
-    cprint("Sorry, Alice can't understand!", 'yellow')
-    commander()
 
+def commander():
+    command = ""
+    pyarena = cmp.Game('not started',players)
+    while command != 'quit':
+        command = input(">>>").lower()
+        if command == 'help':
+            helper()
+        elif command == 'start' and pyarena.status != 'started':
+            pyarena.status = 'started'
+            pyarena.init_game()
+        elif command == 'start' and pyarena.status == 'started':
+            print(colored("PyArena is already started!", 'red'))
+            continue
+        elif command == 'play':
+            pyarena.play_game()
+        elif command == 'alice':
+            story.tell()
+        elif command == 'quit':
+            print(colored("Bye Boss, I will be missing you. Back you soon...", 'green'))
+            exit()
+        elif command == 'reset':
+            cprint("Game settings reset!", 'cyan')
+            game_reset()
+        else:
+            print(colored("Sorry Boss, Alice can't understand!", 'yellow'))
 
 
 def game_starter():

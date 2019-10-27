@@ -26,7 +26,7 @@ HOW TO PLAY :
     8) To exit from PyArena, use 'quit' command.
     9) Rather, If you want to hear the story of the mysterious Arena call Alice using command 'alice'
           Story will be unlocked with further levels
-    10) Interestingly, Alice don't care the case of your command. If you want to reset and setup a new game, use command 'reset'
+    10) Interestingly, Alice don't care the case of your command.
     11) And Finally, One who reaches 100 position which is really the palace of Arena and becomes the
         Python Master. Enjoy..
 
