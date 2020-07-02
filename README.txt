@@ -42,15 +42,15 @@ Yours Lovingly
 Alice
  ************************************************************************************************************
  DEVELOPER
- Ajwad Juman PC
+ Armed Juror
  Student,
  Indian Institute of Technology Kharagpur
- Web : https://ajwadjumanpc.github.io
+ Web : https://armedjuror.github.io
  Email : public.ajpc@gmail.com
  Dated : 27/10/2019
 
  on behalf of
 
  Cybercraft Technologies
- www.cybercraft-technologies.in
+ www.cybercraft.co.in
  [A Private Profile]
