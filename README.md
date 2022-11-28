@@ -26,27 +26,11 @@ with, live with.
     11) And Finally, One who reaches 100 position which is really the palace of Arena and becomes the
         Python Master. Enjoy..
 
- ************************************************************************************************************
- PERMISSIONS
-    PyArena is extremely free and hereby grand all permission to use,study,modify but not for commercial use.
-    Because I'm not a product to sell rather to enjoy...
+### PERMISSIONS
+PyArena is extremely free and hereby grand all permission to use,study,modify but not for commercial use. Because It's not a product to sell rather to enjoy.
 
-    I request everyone help me improve. Send your feedback to my papa
-    public.ajpc@gmail.com
-
-Yours Lovingly
-Alice
- ************************************************************************************************************
- DEVELOPER
- Armed Juror
- Student,
- Indian Institute of Technology Kharagpur
- Web : https://armedjuror.github.io
- Email : public.ajpc@gmail.com
- Dated : 27/10/2019
-
- on behalf of
-
- Cybercraft Technologies
- www.cybercraft.co.in
- [A Private Profile]
+### DEVELOPER
+Armed Juror
+Web : https://armedjuror.github.io
+Email : armedjuror@gmail.com
+Dated : 27/10/2019
