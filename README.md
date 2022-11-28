@@ -15,22 +15,17 @@ with, live with.
 3. Command `help` will give a brief how to play in PyArena prompt
 4. Firstly, we should setup the game using command `start`. So that we could decide number of players and name of players
 5. Once this is completed, Your game is ready. To start the game use command `play`. Now prompt shows the players name whose turn is to roll the dice.
-6. To roll the dice, use the command `roll`
-> PyArena shows the dice value like 'DICE : 3'
-7. If your time is running up! To stop the running game, use command 'stop'
-        Beware PyArena currently deletes that game at the right time itself
-    8) To exit from PyArena, use 'quit' command.
-    9) Rather, If you want to hear the story of the mysterious Arena call Alice using command 'alice'
-          Story will be unlocked with further levels
-    10) Interestingly, Alice don't care the case of your command.
-    11) And Finally, One who reaches 100 position which is really the palace of Arena and becomes the
-        Python Master. Enjoy..
+6. To roll the dice, use the command `roll`. PyArena shows the dice value like `DICE : 3`
+7. If your time is running up! To stop the running game, use command `stop`. Beware PyArena currently deletes that game at the right time itself
+8. To exit from PyArena, use `quit` command.
+9. Rather, If you want to hear the story of the mysterious Arena call Alice using command `alice`. Story will be unlocked with further levels. Interestingly, Alice don't care the case of your command.
+10. And Finally, One who reaches 100 position which is really the palace of Arena and becomes the Python Master. Enjoy..
 
 ### PERMISSIONS
 PyArena is extremely free and hereby grand all permission to use,study,modify but not for commercial use. Because It's not a product to sell rather to enjoy.
 
 ### DEVELOPER
 Armed Juror
-Web : https://armedjuror.github.io
-Email : armedjuror@gmail.com
-Dated : 27/10/2019
+* Web : https://armedjuror.github.io
+* Email : armedjuror@gmail.com
+* Dated : 27/10/2019
